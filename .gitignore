@@ -1,2 +1,5 @@
-data/*
 temp/*
+data/ibge/PR_Municipios_2020.zip
+data/vax/small/VAX_PR.csv
+data/vax/full/VAX_PR.csv
+data/rem/full/brazil_covid19_cities.csv
