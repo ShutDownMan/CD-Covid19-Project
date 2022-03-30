@@ -8,6 +8,3 @@ O seguinte trabalho visa realizar um estudo retrospectivo sobre a COVID-19, busc
 - Ana Paula Merencia
 - Jedson Gabriel Ferreira de Paula
 - Marco Antonio Veronez de Lima
-
-## Perguntas respondidas:
-1. Pergunta?
